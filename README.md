@@ -38,7 +38,7 @@
 > 本应用集成了dockerfile docker-compose, 同时也支持原始的服务器中直接部署的方式
 
 
-# docker方式
+### docker方式
 
 1. 安装docker
     
@@ -56,7 +56,7 @@
 > 正常情况下执行docker-compose命令结束后 不会出现报错信息 后端服务启动成功
 > 配置host <服务器主机IP> tcm.huobi.com 即可访问项目
 
-# 服务器直接部署方式
+### 服务器直接部署方式
 1. 安装python
 
     
@@ -79,7 +79,7 @@
    重新加载使新的配置生效 nginx -s reload
     ```
 
-# 项目功能介绍
+## 项目功能介绍
 一、**团队管理**
 
 1.1 **团队创建**
@@ -221,12 +221,12 @@ NOTE:
 > 
 
 
-# Contributors
+## Contributors
 - guoliang ([@github](https://github.com/guoliang))
 - zhangqiuhong ([@github](https://github.com/zhangqiuhong))
 - yuli ([@yuli])
 
 
-## 其他优秀的项目
+### 其他优秀的项目
 - [飞蛾](https://feie.work/) 
 
