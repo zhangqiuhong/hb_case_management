@@ -10,7 +10,6 @@
 
 **项目简介** 
 
-<p align="left"><img src="docs/img/qqgroup.png" /></div>
 
 [hb_case_management]以下简称TCM是一款面向软件测试相关从业者提供用例管理的工具，基于python的Django rest-framework、vue、nodejs等主流应用技术开发。
 在部分UI方面参考了[飞蛾](https://feie.work/) 的设计风格并进行了小幅改动，增加了常用功能的便捷入口，去掉了繁复操作，降低了测试人员的使用成本，且完全开源免费，不限使用人数。
